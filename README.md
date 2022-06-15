@@ -1,3 +1,3 @@
 # AnalyticsWrapper
 
-A description of this package.
+Some interfaces for logging events.
